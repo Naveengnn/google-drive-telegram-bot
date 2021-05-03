@@ -10,15 +10,15 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "Get it from @BotFather",
        "value": "1422140469:AAEkiEKkt0-gHUx1hxMqrP_TdPoMG6cD9x4"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "Your API_ID, Get it from https://my.telegram.org/apps",
       "value": "2722224"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "Your API_HASH, Get it from https://my.telegram.org/apps",
       "value": "ed73235a355120eac379d077156e8b58"
     },
     "SUDO_USERS": {
